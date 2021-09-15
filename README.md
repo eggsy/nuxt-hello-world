@@ -4,7 +4,7 @@
 
 ### Installation
 
-Download the module from NPM via `npm install nuxt-hello-world --save` (or `yarn add nuxt-hello-world`Ï) and then add it to your `nuxt.config.js` file:
+Download the module from NPM via `npm install nuxt-hello-world --save` (or `yarn add nuxt-hello-world`) and then add it to your `nuxt.config.js` file:
 
 ```js
 export default {
