@@ -1,4 +1,10 @@
-# Nuxt Hello World
+<h1>Nuxt Hello World</h1>
+
+<p align="center">
+
+![image](/demo/image.jpg)
+
+</p>
 
 ⚡️ Lightning fast, and advanced Nuxt.js module for those who want to see "hello world" in their console every time they change a page, or start their Nuxt server.
 
