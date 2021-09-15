@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-hello-world",
+  "version": "1.0.0",
+  "description": "A super advanced and most amazing hello world module for Nuxt.",
+  "main": "lib/module.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggsy/nuxt-hello-world-module.git"
+  },
+  "keywords": [
+    "nuxt",
+    "hello",
+    "world"
+  ],
+  "author": "Abdulbaki \"EGGSY\" Dursun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eggsy/nuxt-hello-world-module/issues"
+  },
+  "homepage": "https://github.com/eggsy/nuxt-hello-world-module#readme"
+}
