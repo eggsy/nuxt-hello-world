@@ -1,6 +1,6 @@
 {
   "name": "nuxt-hello-world",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A super advanced and most amazing hello world module for Nuxt.",
   "main": "lib/module.js",
   "directories": {
