@@ -6,6 +6,10 @@
   "directories": {
     "lib": "lib"
   },
+  "files": [
+    "lib/*",
+    "pages/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
